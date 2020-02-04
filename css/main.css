@@ -1,0 +1,34 @@
+.section-A{
+    padding: 30px;
+    background-image: url("../images/accessory-buttons-console-control-275033.jpg");
+    background-size: cover;
+}
+.card-body{
+    height: auto;
+    width: auto;
+    padding: 2px;
+}
+.card-image{
+    width: 50px;
+    height: 50px;
+}
+.section-B img{
+    width: 500px;
+    height: auto;
+}
+.section-B p{
+    color: forestgreen;
+}
+.footer ul{
+    position: center;
+    padding-right: 50%;
+}
+.card-image:hover {
+}
+body{
+    background-image: url("../images/accessory-buttons-console-control-275033.jpg");
+    background-size: cover;
+}
+.last_div{
+    color: #FFFFFF;
+}
